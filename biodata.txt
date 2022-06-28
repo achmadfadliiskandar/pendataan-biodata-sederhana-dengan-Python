@@ -1,0 +1,20 @@
+Nama:achmad fadli iskandar
+Alamat:depok
+Email:af137357@gmail.com
+Umur:18
+
+Nama:taufik
+Alamat:cianjur
+Email:taufik@gmail.com
+Umur:21
+
+Nama: Tidak di isi
+Alamat: Tidak di isi
+Email: Tidak di isi
+Umur:20
+
+Nama:fadlan
+Alamat:balikpapan
+Email:fadlimitjeder@gmail.com
+Umur:15
+
